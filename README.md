@@ -93,7 +93,7 @@ Der er flere måder at gøre det på, men det *nemmeste* er at starte på github
 
 Du skulle nu gerne se noget der minder om dette:
 
-![](img/NewProjectOnGithub.png)
+![](img/NewProjectOnGithub.jpg)
 
 ### Gitignore
 Dette er en lille knast, vi skal over. Når vi siger `git add .` så vil git lægge alle nye eller ændrede filer i workspace over i staging area. Men der er mange ting der *ikke* skal med. F.eks.
