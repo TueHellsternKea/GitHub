@@ -126,15 +126,7 @@ I kommando prompten skal du så skrive `git clone URL`, hvor URL er det du kopie
 
 git clone kommandoen skulle så gerne skrive noget i stil med:
 
-```
-$ git clone https://github.com/kaspercphbusiness/test100.git
-Cloning into 'test100'...
-remote: Counting objects: 7, done.
-remote: Compressing objects: 100% (5/5), done.
-remote: Total 7 (delta 1), reused 0 (delta 0), pack-reused 0
-Unpacking objects: 100% (7/7), done.
-$
-```
+![](img/Clonecmd.jpg)
 
 
 **Tillykke, du har nu dit første lokale git repository!**
