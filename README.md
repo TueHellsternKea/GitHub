@@ -14,6 +14,7 @@ Der findes ikke nogen steder, hvor man udvikler software, uden at have et versio
 ##  Baggrundsmateriale
 - [Gratis e-bog](https://git-scm.com/book/en/v2) om Git
 - [LinkedIn Learning video](https://www.linkedin.com/learning/git-essential-training-the-basics/use-git-version-control-software-to-manage-project-code?u=36836804) Git Essential Training: kapitel 1-5
+- [PowerPoint](./GitHub_TUEH.pptx)
 
 
 ## Hvorfor et version styringssystem?
